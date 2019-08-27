@@ -9,7 +9,7 @@
         </label>
     </div>
     <div>
-        <label for=""borrowed">
+        <label for="borrowed">
           borrowed
           <input v-model="bookData.ownership" type="radio" value="borrowed">
         </label>
